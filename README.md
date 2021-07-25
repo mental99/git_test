@@ -1,0 +1,1 @@
+This is mental's first git project!
